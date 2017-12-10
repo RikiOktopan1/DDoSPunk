@@ -8,5 +8,7 @@ Cara Install dan menjalankan
 - `git clone https://github.com/RikiOktopan1/DDoSPunk`
 - `cd DDoSPunk`
 - `python2 Punk.py`
+- `Masukan IP Address Target `
+- `Masukan Port`
 ------
-Riki Street Punk
+# Riki Street Punk
